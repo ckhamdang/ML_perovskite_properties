@@ -1,1 +1,1 @@
-# ML__bandgap_properties
+# ML_bandgap_properties
